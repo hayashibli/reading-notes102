@@ -1,5 +1,5 @@
 # reading-notes
-**Benefits of growth mindset**
+# **Benefits of growth mindset**
 
 ### Growth mindset leads a person to:
 
@@ -12,5 +12,6 @@ lifes.
 6. Persist even when there are obstacles
 7. Learn from any critism.
 
-It is important tp know that growth mindset is in a direct relationship with learning so the more you learn the more you will be intelligent and creative.
+It is important to know that growth mindset is in a direct relationship with learning so the more you learn the more you will be intelligent and creative.
 This [image] (https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png) demonstrates the difference between the fixed and the growth mindsets.
+
