@@ -10,3 +10,4 @@ that's why markdown is not a WYSIWYG language, you can learn more about markdown
 After creating an account on GitHub, you can create something called **repository** with master branch in which you can add many files with **.md** or **.markdown** extensions and you can edit
 and add files like you want without any problems but you should click on **commit changes** when you edit any file.
 You can see the repositories in this image ![img](https://tonsky.me/blog/github-redesign/10_as-is.png)
+# new text
