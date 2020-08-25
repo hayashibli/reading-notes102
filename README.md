@@ -22,3 +22,6 @@ lifes.
 2. I keep learning new skills to be more creative and educative.
 3. I love reading about other peaple successes to learn how they reached their goals.
 4. Always i google for ways to keep myself motivated, [here](https://www.wikihow.com/Stay-Motivated) is one of the websites that i searched for.
+
+## Self introducion
+* My name is Haya shibli, I am 22 years old graduated 3 months ago from the university of Jordan with a bachelor's degree in the science of Orthotics and prosthetics. I am really interested in learning coding and expand my knowledge about it as it is considered an important field especially in our era so that's why I enrolled in the ASAC software development course. During quarantine period I started learning basics of HTML and JavaScript and I really like it.  And about my hobbies, I like reading, playing basketball, trying new things and my favourite is learning new skills because I know that I am a fast learner.
