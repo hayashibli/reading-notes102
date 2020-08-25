@@ -1,5 +1,5 @@
 # Computers
-![image!](img input_output.gif)
+![image!](http://4.bp.blogspot.com/_9LDQMTuo6Y8/TEXhOu_qGFI/AAAAAAAAABk/fcElgLHnVHA/s1600/input_output.gif)
 ## what makes a computer a computer?
 Computers are everywhere and they work based on specific process
 input storage processing output (4 things common to all computers were used from early years until now)
