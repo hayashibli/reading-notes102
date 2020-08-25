@@ -35,4 +35,3 @@ Is an alternative way to specify colors.
 
 ### P.S: [here](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#:~:text=Cascading%20Style%20Sheets%20%28CSS%29%20is%20a%20style%20sheet,fonts.%20This%20separation%20can%20improve%20content%20accessibility%20) for more information.
 
-
