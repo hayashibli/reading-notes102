@@ -29,4 +29,4 @@ by numbers.
 **Therefore, computers work from inside based on the binary number digits system and the circuits within the electric wires so
 they are the backbone of how all computers input, store, process and output information.**
 
-#### The source of the previous information is from (here){https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-}
+#### The source of the previous information is from [here](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
