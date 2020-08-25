@@ -1,4 +1,4 @@
-# **CSS*
+# **CSS**
 This language controls the design of a webpage and making it more attractive like specifying
 the background color,Font size, typeface and color, adding boxes around paragraphs.
 Css works with HTML elements by associating rules in which a rule consist of a :
@@ -18,19 +18,19 @@ A *style* element includes the CSS rules that will be applied to the HTML webpag
 * If you specify a rule like the font-family or color on the <body> element, they will apply
  to most child elements.
 
-## * Color
+## Color
 This property determines the color of the text and there are 3 main ways in CSS:
 - Color names: express color with text like; red or blue.
 - HEX code: express color with a six digit codes like; #ee3e80.
 - RGB : express color depending on how much red, green and blue it consist like; rgb(100,100,90).
 
-## * Background color
+## Background color
 By this property you can change the background color of any text or page.
 
-## * Opacity and Rgba
+## Opacity and Rgba
 This property controls how much the opacity or the blackness of the text.The value is a number
  between 0.0 and 1.0 (0-100%).
-## * HLS
+## HLS
 Is an alternative way to specify colors.
 
 ### P.S: [here](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#:~:text=Cascading%20Style%20Sheets%20%28CSS%29%20is%20a%20style%20sheet,fonts.%20This%20separation%20can%20improve%20content%20accessibility%20) for more information.
