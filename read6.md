@@ -1,6 +1,6 @@
 # Computers
 ![image!](http://4.bp.blogspot.com/_9LDQMTuo6Y8/TEXhOu_qGFI/AAAAAAAAABk/fcElgLHnVHA/s1600/input_output.gif)
-## what makes a computer a computer?
+## What makes a computer a computer?
 Computers are everywhere and they work based on specific process
 input storage processing output (4 things common to all computers were used from early years until now)
 - Input : tell you computer information to do certain tasks and converts physical input to binary information.
@@ -29,4 +29,8 @@ by numbers.
 **Therefore, computers work from inside based on the binary number digits system and the circuits within the electric wires so
 they are the backbone of how all computers input, store, process and output information.**
 
+<<<<<<< HEAD
 #### The source of the previous information is from [here](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+=======
+#### The source of the previous information is from [here](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+>>>>>>> 972c4001d0a87718d070f1e4b0251c3442777ed9
