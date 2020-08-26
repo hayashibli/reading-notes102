@@ -10,7 +10,7 @@ finish loading so these actions are done either by the user or the browser.
 A script is a series of steps and instructions that a computer can follow to achieve certain goals and these goals are broken down
  into  series of tasks thus to write these instructions
 there is two important thing; *vocabulary* which is the words that the computer can understand and *syntax* which is the way to put 
-these words together to create instructions.  
+these words together to create instructions. 
 
 ## Expressions
 They result in a single value and there are two types:
