@@ -36,4 +36,4 @@ There are two ways to declare functions:
 A function with no name is called an anonymous function.
 Types of variable:
 - Variable scope: which is inside the function statement.
-- Variable global: which is outside the function statment.
+- Variable global: which is outside the function statment. 

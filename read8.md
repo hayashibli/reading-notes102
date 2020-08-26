@@ -26,4 +26,4 @@ There are three common types of loops:
 ex; while(i<10){}
 - For loop: used when you want to run a code for specific number of times. It consists of; initialization, condition and update.
 ex; for (var a=0 ; a<10 ; a++){}
-- Do while: similar to while loop but it differ in the structure of the statement.
+- Do while: similar to while loop but it differ in the structure of the statement. 
