@@ -5,7 +5,7 @@ Used to compare two operands to each other, they can be values or variables and 
 * (!=) means is not equal to.
 * (===) means strictly equal to.
 * (!==) means not strictly equal to.
-* (<) means lesser than.
+* (<) means lesser than. 
 * (>) means greater than.
 * (<=) means lesser or equal to.
 * (>=) means  greateror equal to.
