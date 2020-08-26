@@ -10,7 +10,7 @@ Used to compare two operands to each other, they can be values or variables and 
 * (<=) means lesser or equal to.
 * (>=) means  greateror equal to.
 
-# Logical operators
+# Logical operators  
 
 Used to compare the result for one or more comparison operators and all their returns are true/false.
 
