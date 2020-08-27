@@ -55,6 +55,9 @@ There are 2 types of paths we can use:
  you can identify them easily as they always begin with a forward slash ( / )
 - Relative :specify a location (file or directory) in relation to where we currently are in the system and 
 they will not begin with a slash.
+* ~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents 
+* . (dot) - This is a reference to your current directory. eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents
+* .. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
 
 ### Files
 
